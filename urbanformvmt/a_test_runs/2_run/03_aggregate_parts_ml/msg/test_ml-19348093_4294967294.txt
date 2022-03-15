@@ -1,0 +1,96 @@
+/data/metab/urbanformvmt/code/inrix_ml
+cs-i14c03b04
+Wed Mar  3 19:38:26 CET 2021
+X_train: (80, 69)
+y_train: (80, 1)
+X_valid: (20, 69)
+y_valid: (20, 1)
+LinReg in 0.0 minutes 0.0545957088470459 seconds
+Overall metrics...
+R2: -1.9993857232893917
+MAE: 61887.03205638623 m
+RMSE: 87280.7519297512 m
+XGBoost done in 0.0 minutes 0.1095435619354248 seconds
+Overall metrics...
+R2: -0.1106918376157322
+MAE: 18164.62673079434 m
+RMSE: 53112.7892483174 m
+                                                 importance                                        feature
+street_closeness_global_closest_road           5.422036e+08           street_closeness_global_closest_road
+street_width_av_inter_buffer_500               8.487221e+07               street_width_av_inter_buffer_500
+street_betweeness_global_av_inter_buffer_100   4.495030e+07   street_betweeness_global_av_inter_buffer_100
+av_orientation_within_buffer_500               1.273966e+07               av_orientation_within_buffer_500
+av_elongation_within_buffer_100                9.229170e+06                av_elongation_within_buffer_100
+street_openness_closest_road                   8.276444e+06                   street_openness_closest_road
+street_length_total_inter_buffer_500           8.198455e+06           street_length_total_inter_buffer_500
+street_closeness_500_closest_road              7.415560e+06              street_closeness_500_closest_road
+street_length_av_within_buffer_100             7.225123e+06             street_length_av_within_buffer_100
+street_length_std_within_buffer_500            5.832233e+06            street_length_std_within_buffer_500
+street_betweeness_global_closest_road          4.243607e+06          street_betweeness_global_closest_road
+av_orientation_within_buffer_100               4.153950e+06               av_orientation_within_buffer_100
+intersection_count_within_buffer_500           3.849757e+06           intersection_count_within_buffer_500
+av_block_orientation_within_buffer_500         3.206605e+06         av_block_orientation_within_buffer_500
+street_betweeness_global_av_inter_buffer_500   3.112537e+06   street_betweeness_global_av_inter_buffer_500
+street_length_closest_road                     2.965133e+06                     street_length_closest_road
+street_length_total_within_buffer_500          2.769046e+06          street_length_total_within_buffer_500
+std_block_av_footprint_area_within_buffer_500  2.686156e+06  std_block_av_footprint_area_within_buffer_500
+av_convexity_within_buffer_100                 2.517532e+06                 av_convexity_within_buffer_100
+street_width_av_inter_buffer_100               1.777403e+06               street_width_av_inter_buffer_100
+street_length_total_within_buffer_100          1.700777e+06          street_length_total_within_buffer_100
+std_block_orientation_within_buffer_500        1.490859e+06        std_block_orientation_within_buffer_500
+std_elongation_within_buffer_500               1.391160e+06               std_elongation_within_buffer_500
+buildings_within_buffer_100                    1.344443e+06                    buildings_within_buffer_100
+av_convexity_within_buffer_500                 1.240798e+06                 av_convexity_within_buffer_500
+std_orientation_within_buffer_100              1.075761e+06              std_orientation_within_buffer_100
+street_betweeness_global_max_inter_buffer_500  1.063637e+06  street_betweeness_global_max_inter_buffer_500
+std_orientation_within_buffer_500              8.485656e+05              std_orientation_within_buffer_500
+std_block_footprint_area_within_buffer_100     8.383477e+05     std_block_footprint_area_within_buffer_100
+av_block_length_within_buffer_500              7.535620e+05              av_block_length_within_buffer_500
+street_width_std_closest_road                  5.943227e+05                  street_width_std_closest_road
+std_block_av_footprint_area_within_buffer_100  4.643636e+05  std_block_av_footprint_area_within_buffer_100
+av_block_av_footprint_area_within_buffer_100   4.255397e+05   av_block_av_footprint_area_within_buffer_100
+street_length_std_within_buffer_100            3.176429e+05            street_length_std_within_buffer_100
+av_elongation_within_buffer_500                2.811925e+05                av_elongation_within_buffer_500
+street_length_total_inter_buffer_100           2.739361e+05           street_length_total_inter_buffer_100
+av_footprint_area_within_buffer_100            2.260134e+05            av_footprint_area_within_buffer_100
+street_betweeness_global_max_inter_buffer_100  2.217028e+05  street_betweeness_global_max_inter_buffer_100
+total_ft_area_within_buffer_500                2.120756e+05                total_ft_area_within_buffer_500
+std_footprint_area_within_buffer_500           2.081072e+05           std_footprint_area_within_buffer_500
+distance_to_closest_intersection               1.857359e+05               distance_to_closest_intersection
+street_width_std_inter_buffer_500              1.653881e+05              street_width_std_inter_buffer_500
+std_footprint_area_within_buffer_100           1.530893e+05           std_footprint_area_within_buffer_100
+buildings_within_buffer_500                    1.282328e+05                    buildings_within_buffer_500
+std_convexity_within_buffer_100                1.167965e+05                std_convexity_within_buffer_100
+blocks_within_buffer_100                       1.166710e+05                       blocks_within_buffer_100
+av_footprint_area_within_buffer_500            1.059414e+05            av_footprint_area_within_buffer_500
+av_block_orientation_within_buffer_100         9.341062e+04         av_block_orientation_within_buffer_100
+distance_to_closest_road                       7.358570e+04                       distance_to_closest_road
+street_width_std_inter_buffer_100              6.242252e+04              street_width_std_inter_buffer_100
+blocks_within_buffer_500                       5.709926e+04                       blocks_within_buffer_500
+std_elongation_within_buffer_100               4.762317e+04               std_elongation_within_buffer_100
+total_ft_area_within_buffer_100                4.049861e+04                total_ft_area_within_buffer_100
+std_block_length_within_buffer_500             1.343168e+04             std_block_length_within_buffer_500
+street_closeness_500_max_inter_buffer_500      9.660352e+03      street_closeness_500_max_inter_buffer_500
+street_closeness_500_max_inter_buffer_100      9.153776e+03      street_closeness_500_max_inter_buffer_100
+av_block_length_within_buffer_100              6.437666e+03              av_block_length_within_buffer_100
+std_block_orientation_within_buffer_100        4.848010e+03        std_block_orientation_within_buffer_100
+std_block_footprint_area_within_buffer_500     2.383082e+03     std_block_footprint_area_within_buffer_500
+street_width_av_closest_road                   1.144662e+03                   street_width_av_closest_road
+street_closeness_500_av_inter_buffer_100       6.014136e+02       street_closeness_500_av_inter_buffer_100
+street_length_av_within_buffer_500             4.937389e+02             street_length_av_within_buffer_500
+av_block_footprint_area_within_buffer_100      2.452452e+02      av_block_footprint_area_within_buffer_100
+street_closeness_500_av_inter_buffer_500       2.339168e+02       street_closeness_500_av_inter_buffer_500
+av_block_footprint_area_within_buffer_500      2.278090e+00      av_block_footprint_area_within_buffer_500
+std_convexity_within_buffer_500                3.427325e-01                std_convexity_within_buffer_500
+std_block_length_within_buffer_100             1.896305e-02             std_block_length_within_buffer_100
+dist_based_bu_100
+1132798.7461517707
+dist_based_bu_500
+1259981.671781967
+str_int_closest
+62884349.39605498
+str_int_100
+5139914.488068523
+str_int_500
+9988513.820914019
+Overall ML done in 0.0 minutes 3.511322021484375 seconds

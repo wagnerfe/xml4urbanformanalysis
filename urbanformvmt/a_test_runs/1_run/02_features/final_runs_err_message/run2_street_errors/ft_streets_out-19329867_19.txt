@@ -1,0 +1,6 @@
+/data/metab/urbanformvmt/code/inrix_first_run
+cs-i14c02b11
+Tue Mar  2 08:48:40 CET 2021
+19
+Len distance_to_closest_intersection:
+1

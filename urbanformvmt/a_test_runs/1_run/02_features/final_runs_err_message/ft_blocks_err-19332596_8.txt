@@ -1,0 +1,841 @@
+sys:1: DtypeWarning: Columns (1) have mixed types.Specify dtype option on import or set low_memory=False.
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:261: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/home/fewagner/.conda/envs/inrix-env/lib/python3.9/site-packages/numpy/core/_methods.py:250: RuntimeWarning: invalid value encountered in true_divide
+  ret = um.true_divide(

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/02_features/trip_street_features.py", line 27, in <module>
+    from utils.features_utils_cluster import features_streets
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/utils/features_utils_cluster.py", line 12, in <module>
+    import osmnx as ox
+ModuleNotFoundError: No module named 'osmnx'

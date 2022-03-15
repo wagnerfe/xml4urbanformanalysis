@@ -1,0 +1,7 @@
+/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/02_features
+cs-h14c03b01
+Mon Mar 22 15:07:06 CET 2021
+0
+Computing building distance-based features...
+500
+svmem(total=66825273344, available=51771842560, percent=22.5, used=9551142912, free=52045094912, active=9590501376, inactive=1688940544, buffers=0, cached=5229035520, shared=2374189056, slab=263139328)

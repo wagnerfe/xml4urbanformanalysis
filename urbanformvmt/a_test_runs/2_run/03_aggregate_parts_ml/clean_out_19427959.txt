@@ -1,0 +1,4 @@
+/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/03_aggregate_parts_ml
+cs-f14c06b11
+Tue Mar 23 09:10:53 CET 2021
+Number of trips after applying bounds: 393614

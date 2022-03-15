@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/02_features/trip_street_features.py", line 74, in <module>
+    gdf_results = features_streets(gdf_trip_origin_part_sample, gdf_street_part, gdf_intersection_part, buffer_sizes=[500,100])
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/utils/features_utils_cluster.py", line 1450, in features_streets
+    for index,row in df.loc[0:end].iterrows():
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexing.py", line 895, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexing.py", line 1102, in _getitem_axis
+    return self._get_slice_axis(key, axis=axis)
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexing.py", line 1136, in _get_slice_axis
+    indexer = labels.slice_indexer(
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5277, in slice_indexer
+    start_slice, end_slice = self.slice_locs(start, end, step=step, kind=kind)
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5476, in slice_locs
+    start_slice = self.get_slice_bound(start, "left", kind)
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5386, in get_slice_bound
+    label = self._maybe_cast_slice_bound(label, side, kind)
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 5338, in _maybe_cast_slice_bound
+    raise self._invalid_indexer("slice", label)
+TypeError: cannot do slice indexing on Index with these indexers [0] of type int

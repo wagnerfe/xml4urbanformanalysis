@@ -1,0 +1,98 @@
+/data/metab/urbanformvmt/code/inrix_ml
+cs-i14c03b12
+Wed Mar  3 19:42:03 CET 2021
+X_train: (231748, 69)
+y_train: (231748, 1)
+X_valid: (57937, 69)
+y_valid: (57937, 1)
+LinReg in 0.0 minutes 0.8348782062530518 seconds
+Overall metrics...
+R2: 0.014070386112738031
+MAE: 16820.807168163923 m
+RMSE: 40243.20119081197 m
+XGBoost done in 0.0 minutes 12.552672147750854 seconds
+Overall metrics...
+R2: 0.06948748164019358
+MAE: 16384.51330943443 m
+RMSE: 39095.851299549904 m
+                                                 importance                                        feature
+street_closeness_500_closest_road              1.311797e+11              street_closeness_500_closest_road
+street_width_av_inter_buffer_100               1.053889e+11               street_width_av_inter_buffer_100
+street_length_av_within_buffer_100             1.020256e+11             street_length_av_within_buffer_100
+std_block_footprint_area_within_buffer_100     1.012042e+11     std_block_footprint_area_within_buffer_100
+std_block_av_footprint_area_within_buffer_100  9.166468e+10  std_block_av_footprint_area_within_buffer_100
+street_length_total_inter_buffer_100           8.985756e+10           street_length_total_inter_buffer_100
+av_block_footprint_area_within_buffer_100      8.411885e+10      av_block_footprint_area_within_buffer_100
+av_block_av_footprint_area_within_buffer_100   7.838586e+10   av_block_av_footprint_area_within_buffer_100
+street_betweeness_global_max_inter_buffer_100  7.475183e+10  street_betweeness_global_max_inter_buffer_100
+av_orientation_within_buffer_100               6.152968e+10               av_orientation_within_buffer_100
+intersection_count_within_buffer_100           6.040535e+10           intersection_count_within_buffer_100
+std_convexity_within_buffer_100                5.893797e+10                std_convexity_within_buffer_100
+av_block_footprint_area_within_buffer_500      5.714992e+10      av_block_footprint_area_within_buffer_500
+street_length_total_inter_buffer_500           5.459991e+10           street_length_total_inter_buffer_500
+total_ft_area_within_buffer_100                5.385488e+10                total_ft_area_within_buffer_100
+av_elongation_within_buffer_100                5.065645e+10                av_elongation_within_buffer_100
+street_closeness_500_max_inter_buffer_100      4.951107e+10      street_closeness_500_max_inter_buffer_100
+street_closeness_500_av_inter_buffer_100       4.928673e+10       street_closeness_500_av_inter_buffer_100
+street_openness_closest_road                   4.881835e+10                   street_openness_closest_road
+std_orientation_within_buffer_100              4.849653e+10              std_orientation_within_buffer_100
+intersection_count_within_buffer_500           4.755949e+10           intersection_count_within_buffer_500
+distance_to_closest_intersection               4.697549e+10               distance_to_closest_intersection
+std_block_orientation_within_buffer_100        4.681767e+10        std_block_orientation_within_buffer_100
+street_betweeness_global_av_inter_buffer_100   4.677374e+10   street_betweeness_global_av_inter_buffer_100
+street_length_std_within_buffer_500            4.589051e+10            street_length_std_within_buffer_500
+std_elongation_within_buffer_500               4.577770e+10               std_elongation_within_buffer_500
+std_block_orientation_within_buffer_500        4.566441e+10        std_block_orientation_within_buffer_500
+std_footprint_area_within_buffer_100           4.491870e+10           std_footprint_area_within_buffer_100
+std_block_av_footprint_area_within_buffer_500  4.456304e+10  std_block_av_footprint_area_within_buffer_500
+std_orientation_within_buffer_500              4.394939e+10              std_orientation_within_buffer_500
+av_convexity_within_buffer_100                 4.382012e+10                 av_convexity_within_buffer_100
+street_betweeness_global_closest_road          4.353884e+10          street_betweeness_global_closest_road
+street_length_total_within_buffer_100          4.234434e+10          street_length_total_within_buffer_100
+std_elongation_within_buffer_100               4.001860e+10               std_elongation_within_buffer_100
+av_block_orientation_within_buffer_500         3.932267e+10         av_block_orientation_within_buffer_500
+av_convexity_within_buffer_500                 3.868165e+10                 av_convexity_within_buffer_500
+street_closeness_global_closest_road           3.850175e+10           street_closeness_global_closest_road
+street_width_std_inter_buffer_100              3.835473e+10              street_width_std_inter_buffer_100
+av_footprint_area_within_buffer_100            3.768483e+10            av_footprint_area_within_buffer_100
+distance_to_closest_road                       3.683636e+10                       distance_to_closest_road
+buildings_within_buffer_100                    3.580265e+10                    buildings_within_buffer_100
+av_orientation_within_buffer_500               3.573894e+10               av_orientation_within_buffer_500
+blocks_within_buffer_100                       3.543892e+10                       blocks_within_buffer_100
+std_footprint_area_within_buffer_500           3.534061e+10           std_footprint_area_within_buffer_500
+std_block_footprint_area_within_buffer_500     3.523011e+10     std_block_footprint_area_within_buffer_500
+street_length_closest_road                     3.518634e+10                     street_length_closest_road
+std_block_length_within_buffer_500             3.463933e+10             std_block_length_within_buffer_500
+av_elongation_within_buffer_500                3.454305e+10                av_elongation_within_buffer_500
+street_width_std_inter_buffer_500              3.443013e+10              street_width_std_inter_buffer_500
+street_width_av_inter_buffer_500               3.423655e+10               street_width_av_inter_buffer_500
+av_block_length_within_buffer_500              3.416577e+10              av_block_length_within_buffer_500
+av_footprint_area_within_buffer_500            3.355071e+10            av_footprint_area_within_buffer_500
+street_betweeness_global_max_inter_buffer_500  3.207592e+10  street_betweeness_global_max_inter_buffer_500
+std_convexity_within_buffer_500                3.028614e+10                std_convexity_within_buffer_500
+street_betweeness_global_av_inter_buffer_500   3.025320e+10   street_betweeness_global_av_inter_buffer_500
+street_length_av_within_buffer_500             2.995748e+10             street_length_av_within_buffer_500
+blocks_within_buffer_500                       2.956085e+10                       blocks_within_buffer_500
+street_length_total_within_buffer_500          2.928335e+10          street_length_total_within_buffer_500
+total_ft_area_within_buffer_500                2.753236e+10                total_ft_area_within_buffer_500
+street_width_av_closest_road                   2.621998e+10                   street_width_av_closest_road
+street_closeness_500_av_inter_buffer_500       2.527935e+10       street_closeness_500_av_inter_buffer_500
+av_block_orientation_within_buffer_100         2.501156e+10         av_block_orientation_within_buffer_100
+std_block_length_within_buffer_100             2.355147e+10             std_block_length_within_buffer_100
+street_closeness_500_max_inter_buffer_500      2.302837e+10      street_closeness_500_max_inter_buffer_500
+street_length_std_within_buffer_100            2.282479e+10            street_length_std_within_buffer_100
+street_width_std_closest_road                  2.245415e+10                  street_width_std_closest_road
+av_block_length_within_buffer_100              2.244623e+10              av_block_length_within_buffer_100
+av_block_av_footprint_area_within_buffer_500   2.149245e+10   av_block_av_footprint_area_within_buffer_500
+buildings_within_buffer_500                    2.128782e+10                    buildings_within_buffer_500
+dist_based_bu_100
+49594173840.06228
+dist_based_bu_500
+35772994476.416374
+str_int_closest
+47745667037.827774
+str_int_100
+61956780616.198555
+str_int_500
+35144933069.99371
+Overall ML done in 0.0 minutes 18.555104970932007 seconds

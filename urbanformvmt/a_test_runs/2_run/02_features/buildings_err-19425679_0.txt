@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/02_features/trip_bldg_distance_based_features.py", line 71, in <module>
+    gdf_features_buildings_distance_based = features_buildings_distance_based(gdf_trip_origin_part_sample, gdf_buildings_part, buffer_sizes=[500,100])                                                               
+  File "/data/metab/UFO-MAP/ufo_map/Feature_engineering/buildings.py", line 430, in features_buildings_distance_based
+    avg_features = buildings_ft_values_av[:, indexes].mean(axis=1).tolist()
+IndexError: arrays used as indices must be of integer (or boolean) type

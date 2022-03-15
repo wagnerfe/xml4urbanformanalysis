@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/03_aggregate_parts_ml/clean_input.py", line 40, in <module>
+    df_cleaned_lb_ub_sample.to_csv(os.path.join(path_out,'model_in_lb_ub.csv', index=False))
+TypeError: join() got an unexpected keyword argument 'index'

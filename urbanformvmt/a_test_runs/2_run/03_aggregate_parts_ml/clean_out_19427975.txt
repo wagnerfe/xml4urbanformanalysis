@@ -1,0 +1,6 @@
+/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/03_aggregate_parts_ml
+cs-i14c01b07
+Tue Mar 23 09:14:14 CET 2021
+Number of trips after applying bounds: 393614
+Number of trips after filter weekdays: 335051
+Number of trips after filter non commercial: 353037

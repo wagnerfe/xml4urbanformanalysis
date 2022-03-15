@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "trip_block_distance_based_features.py", line 12, in <module>
+    import geopandas as gpd
+ModuleNotFoundError: No module named 'geopandas'

@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/03_aggregate_parts_ml/clean_input.py", line 40, in <module>
+    df_cleaned_lb_ub_sample.to_csv(os.path.join(path_out,'model_in_lb_ub.csv'), index=False)
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/core/generic.py", line 3387, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/io/formats/format.py", line 1083, in to_csv
+    csv_formatter.save()
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/io/formats/csvs.py", line 228, in save
+    with get_handle(
+  File "/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/pandas/io/common.py", line 642, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/p/projects/vwproject/felix_files/data/output/ML/model_in_lb_ub.csv'

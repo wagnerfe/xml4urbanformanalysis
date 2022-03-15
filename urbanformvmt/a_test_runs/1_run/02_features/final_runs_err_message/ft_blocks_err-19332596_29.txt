@@ -1,0 +1,2 @@
+/var/spool/slurmd/job19332626/slurm_script: line 21: 25131 Killed                  python -u trip_block_distance_based_features.py -i $SLURM_ARRAY_TASK_ID
+slurmstepd: error: Detected 1 oom-kill event(s) in step 19332626.batch cgroup.

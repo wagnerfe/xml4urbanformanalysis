@@ -1,0 +1,4 @@
+/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/01_preprocessing
+cs-i14c04b02
+Mon Mar 22 12:26:11 CET 2021
+Number of trips after bounds: 447267

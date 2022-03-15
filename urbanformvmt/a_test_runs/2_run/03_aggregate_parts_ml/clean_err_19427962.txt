@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/03_aggregate_parts_ml/clean_input.py", line 45, in <module>
+    df_cleaned_week = gf_cleaned_week.reset_index(drop=True)
+NameError: name 'gf_cleaned_week' is not defined

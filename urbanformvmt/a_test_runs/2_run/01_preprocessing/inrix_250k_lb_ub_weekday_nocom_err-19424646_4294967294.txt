@@ -1,0 +1,286 @@
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1299: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  result = super(GeoDataFrame, self).__getitem__(key)
+/home/fewagner/.conda/envs/inrix_env2/lib/python3.9/site-packages/geopandas/geodataframe.py:1322: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  super(GeoDataFrame, self).__setitem__(key, value)

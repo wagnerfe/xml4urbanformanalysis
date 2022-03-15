@@ -1,0 +1,7 @@
+/data/metab/urbanformvmt/code/inrix_first_run
+cs-i14c06b10
+Wed Mar  3 13:28:47 CET 2021
+5
+Computing block distance-based features...
+500
+100

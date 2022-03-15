@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/p/projects/vwproject/felix_files/urbanformvmt/0_test_runs/2_run/01_preprocessing/clean_trips.py", line 52, in <module>
+    gdf['startdate'] = pd.to_datetime(gdf['startdate'])
+NameError: name 'gdf' is not defined

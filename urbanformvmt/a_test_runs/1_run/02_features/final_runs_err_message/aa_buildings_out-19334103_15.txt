@@ -1,0 +1,8 @@
+/data/metab/urbanformvmt/code/inrix_first_run
+cs-i14c05b09
+Tue Mar  2 18:17:40 CET 2021
+15
+Computing building distance-based features...
+500
+100
+Done in 33.0 minutes 37.604602575302124 seconds
